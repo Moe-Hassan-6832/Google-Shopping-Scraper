@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "crawlee": "^3.1.4",
+    "csv-parse": "^5.3.3",
+    "puppeteer": "^19.6.1"
+  },
+  "type": "module"
+}
